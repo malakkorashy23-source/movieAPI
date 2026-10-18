@@ -1,0 +1,644 @@
+{
+"top10":[
+  {
+    "id": 43,
+    "title": "Finding Dory",
+    "description": "Dory begins an emotional journey across the ocean to uncover her past, finding friendship, family, and courage while overcoming every challenge that comes her way together.",
+    "year": "2016",
+    "type": "Kids",
+    "poster": "dory_poster.webp",
+    "logo": "dory_logo.png",
+    "background": "dory_back.jpg",
+    "evaluation":"6.5",
+    "trailer":"JhvrQeY3doI",
+    "reviews": [
+  {
+    "name": "Emma Johnson",
+    "date": "2026-01-15",
+    "content": "Amazing movie! The story was fun, and the characters were really enjoyable."
+  },
+  {
+    "name": "Liam Smith",
+    "date": "2026-01-22",
+    "content": "My kids loved it. It was funny, entertaining, and easy to follow."
+  },
+  {
+    "name": "Olivia Brown",
+    "date": "2026-02-03",
+    "content": "A really enjoyable animated movie with a great message about friendship."
+  },
+  {
+    "name": "Noah Williams",
+    "date": "2026-02-10",
+    "content": "The animation looks fantastic, and the story kept me interested from beginning to end."
+  },
+  {
+    "name": "Ava Davis",
+    "date": "2026-02-18",
+    "content": "Very funny and entertaining. Some scenes were especially memorable."
+  },
+  {
+    "name": "James Wilson",
+    "date": "2026-02-25",
+    "content": "I enjoyed the characters and the humor. It is a great movie for families."
+  },
+  {
+    "name": "Sophia Martinez",
+    "date": "2026-03-04",
+    "content": "The story was simple but enjoyable, and the animation was beautiful."
+  },
+  {
+    "name": "Henry Anderson",
+    "date": "2026-03-12",
+    "content": "A fun movie with a good balance of comedy, adventure, and emotional moments."
+  },
+  {
+    "name": "Mia Taylor",
+    "date": "2026-03-20",
+    "content": "I really liked the characters. The movie was entertaining and had a positive message."
+  },
+  {
+    "name": "Lucas Thomas",
+    "date": "2026-03-28",
+    "content": "Great animated movie for both kids and adults. I would definitely watch it again."
+  }
+]
+  },
+  {
+    "id": 51,
+    "title": "Toy Story",
+    "description": "A group of beloved toys comes to life whenever humans are away, sharing unforgettable adventures that celebrate friendship, loyalty, courage, and the joy of growing together.",
+    "year": "1995",
+    "type": "Kids",
+    "poster": "toy1_poster.webp",
+    "logo": "toy1_logo.png",
+    "background": "toy1_back.jpg",
+    "evaluation":"3.4",
+    "trailer":"CxwTLktovTU",
+    "reviews": [
+  {
+    "name": "Emma Johnson",
+    "date": "2026-01-15",
+    "content": "Amazing movie! The story was fun, and the characters were really enjoyable."
+  },
+  {
+    "name": "Liam Smith",
+    "date": "2026-01-22",
+    "content": "My kids loved it. It was funny, entertaining, and easy to follow."
+  },
+  {
+    "name": "Olivia Brown",
+    "date": "2026-02-03",
+    "content": "A really enjoyable animated movie with a great message about friendship."
+  },
+  {
+    "name": "Noah Williams",
+    "date": "2026-02-10",
+    "content": "The animation looks fantastic, and the story kept me interested from beginning to end."
+  },
+  {
+    "name": "Ava Davis",
+    "date": "2026-02-18",
+    "content": "Very funny and entertaining. Some scenes were especially memorable."
+  },
+  {
+    "name": "James Wilson",
+    "date": "2026-02-25",
+    "content": "I enjoyed the characters and the humor. It is a great movie for families."
+  },
+  {
+    "name": "Sophia Martinez",
+    "date": "2026-03-04",
+    "content": "The story was simple but enjoyable, and the animation was beautiful."
+  },
+  {
+    "name": "Henry Anderson",
+    "date": "2026-03-12",
+    "content": "A fun movie with a good balance of comedy, adventure, and emotional moments."
+  },
+  {
+    "name": "Mia Taylor",
+    "date": "2026-03-20",
+    "content": "I really liked the characters. The movie was entertaining and had a positive message."
+  },
+  {
+    "name": "Lucas Thomas",
+    "date": "2026-03-28",
+    "content": "Great animated movie for both kids and adults. I would definitely watch it again."
+  }
+]
+  },
+  {
+    "id": 46,
+    "title": "Minions",
+    "description": "The lovable yellow Minions set out on a hilarious adventure packed with unexpected challenges, unforgettable friendships, and endless laughter while searching for the perfect leader together.",
+    "year": "2015",
+    "type": "Kids",
+    "poster": "minions1_poster.webp",
+    "logo": "minions1_logo.png",
+    "background": "minions1_back.jpg",
+    "evaluation":"4.6",
+    "trailer":"6DxjJzmYsXo",
+    "reviews": [
+  {
+    "name": "Matthew Young",
+    "date": "2026-06-13",
+    "content": "One of the most enjoyable animated movies I have watched recently."
+  },
+  {
+    "name": "Isabella King",
+    "date": "2026-06-20",
+    "content": "The humor was great, and I especially enjoyed the interactions between the characters."
+  },
+  {
+    "name": "Samuel Wright",
+    "date": "2026-06-27",
+    "content": "A colorful and entertaining adventure with a story that never feels boring."
+  },
+  {
+    "name": "Emily Scott",
+    "date": "2026-07-04",
+    "content": "The animation style is beautiful, and the movie has a lot of memorable scenes."
+  },
+  {
+    "name": "David Green",
+    "date": "2026-07-11",
+    "content": "I enjoyed the action and comedy. It is a great choice for a movie night."
+  },
+  {
+    "name": "Hannah Baker",
+    "date": "2026-07-18",
+    "content": "The story has some unexpected moments that made the movie more interesting."
+  },
+  {
+    "name": "Michael Adams",
+    "date": "2026-07-25",
+    "content": "The pacing was good, and I never felt like the movie was too slow."
+  },
+  {
+    "name": "Amelia Nelson",
+    "date": "2026-08-01",
+    "content": "I really enjoyed the funny scenes and the unique personalities of the characters."
+  },
+  {
+    "name": "Christopher Carter",
+    "date": "2026-08-08",
+    "content": "A fun family movie with an interesting story and beautiful animation."
+  },
+  {
+    "name": "Charlotte Mitchell",
+    "date": "2026-08-15",
+    "content": "The ending was great, and the whole movie was enjoyable and easy to watch."
+  }
+]
+  },
+  {
+    "id": 35,
+    "title": "The Lion King",
+    "description": "A young lion prince begins an emotional journey of courage and self-discovery, learning the true meaning of responsibility, family, and embracing his rightful place in life.",
+    "year": "1994",
+    "type": "Family",
+    "poster": "lionKing_poster.webp",
+    "logo": "lionKing_logo.png",
+    "background": "lionKing_back.jpg",
+    "evaluation":"3.4",
+    "trailer":"lFzVJEksoDY",
+    "reviews": [
+  {
+    "name": "Emma Johnson",
+    "date": "2026-01-15",
+    "content": "Amazing movie! The story was fun, and the characters were really enjoyable."
+  },
+  {
+    "name": "Liam Smith",
+    "date": "2026-01-22",
+    "content": "My kids loved it. It was funny, entertaining, and easy to follow."
+  },
+  {
+    "name": "Olivia Brown",
+    "date": "2026-02-03",
+    "content": "A really enjoyable animated movie with a great message about friendship."
+  },
+  {
+    "name": "Noah Williams",
+    "date": "2026-02-10",
+    "content": "The animation looks fantastic, and the story kept me interested from beginning to end."
+  },
+  {
+    "name": "Ava Davis",
+    "date": "2026-02-18",
+    "content": "Very funny and entertaining. Some scenes were especially memorable."
+  },
+  {
+    "name": "James Wilson",
+    "date": "2026-02-25",
+    "content": "I enjoyed the characters and the humor. It is a great movie for families."
+  },
+  {
+    "name": "Sophia Martinez",
+    "date": "2026-03-04",
+    "content": "The story was simple but enjoyable, and the animation was beautiful."
+  },
+  {
+    "name": "Henry Anderson",
+    "date": "2026-03-12",
+    "content": "A fun movie with a good balance of comedy, adventure, and emotional moments."
+  },
+  {
+    "name": "Mia Taylor",
+    "date": "2026-03-20",
+    "content": "I really liked the characters. The movie was entertaining and had a positive message."
+  },
+  {
+    "name": "Lucas Thomas",
+    "date": "2026-03-28",
+    "content": "Great animated movie for both kids and adults. I would definitely watch it again."
+  }
+]
+  },
+  {
+    "id": 36,
+    "title": "Soul",
+    "description": "A passionate musician unexpectedly explores the meaning of life through a remarkable adventure, discovering purpose, inspiration, and the small moments that make every day meaningful.",
+    "year": "2020",
+    "type": "Family",
+    "poster": "soul_poster.webp",
+    "logo": "soul_logo.png",
+    "background": "soul_back.jpg",
+    "evaluation":"3.4",
+    "trailer":"xOsLIiBStEs",
+    "reviews": [
+  {
+    "name": "Emma Johnson",
+    "date": "2026-01-15",
+    "content": "Amazing movie! The story was fun, and the characters were really enjoyable."
+  },
+  {
+    "name": "Liam Smith",
+    "date": "2026-01-22",
+    "content": "My kids loved it. It was funny, entertaining, and easy to follow."
+  },
+  {
+    "name": "Olivia Brown",
+    "date": "2026-02-03",
+    "content": "A really enjoyable animated movie with a great message about friendship."
+  },
+  {
+    "name": "Noah Williams",
+    "date": "2026-02-10",
+    "content": "The animation looks fantastic, and the story kept me interested from beginning to end."
+  },
+  {
+    "name": "Ava Davis",
+    "date": "2026-02-18",
+    "content": "Very funny and entertaining. Some scenes were especially memorable."
+  },
+  {
+    "name": "James Wilson",
+    "date": "2026-02-25",
+    "content": "I enjoyed the characters and the humor. It is a great movie for families."
+  },
+  {
+    "name": "Sophia Martinez",
+    "date": "2026-03-04",
+    "content": "The story was simple but enjoyable, and the animation was beautiful."
+  },
+  {
+    "name": "Henry Anderson",
+    "date": "2026-03-12",
+    "content": "A fun movie with a good balance of comedy, adventure, and emotional moments."
+  },
+  {
+    "name": "Mia Taylor",
+    "date": "2026-03-20",
+    "content": "I really liked the characters. The movie was entertaining and had a positive message."
+  },
+  {
+    "name": "Lucas Thomas",
+    "date": "2026-03-28",
+    "content": "Great animated movie for both kids and adults. I would definitely watch it again."
+  }
+]
+  },
+  {
+    "id": 37,
+    "title": "Tangled",
+    "description": "A curious young princess leaves her hidden tower for an unforgettable adventure filled with friendship, discovery, courage, and the dream of finding her true place in life.",
+    "year": "2010",
+    "type": "Family",
+    "poster": "tangled_poster.webp",
+    "logo": "tangled_logo.png",
+    "background": "tangled_back.jpg",
+    "evaluation":"3.2",
+    "trailer":"ycoY201RTRo",
+    "reviews": [
+  {
+    "name": "Emma Johnson",
+    "date": "2026-01-15",
+    "content": "Amazing movie! The story was fun, and the characters were really enjoyable."
+  },
+  {
+    "name": "Liam Smith",
+    "date": "2026-01-22",
+    "content": "My kids loved it. It was funny, entertaining, and easy to follow."
+  },
+  {
+    "name": "Olivia Brown",
+    "date": "2026-02-03",
+    "content": "A really enjoyable animated movie with a great message about friendship."
+  },
+  {
+    "name": "Noah Williams",
+    "date": "2026-02-10",
+    "content": "The animation looks fantastic, and the story kept me interested from beginning to end."
+  },
+  {
+    "name": "Ava Davis",
+    "date": "2026-02-18",
+    "content": "Very funny and entertaining. Some scenes were especially memorable."
+  },
+  {
+    "name": "James Wilson",
+    "date": "2026-02-25",
+    "content": "I enjoyed the characters and the humor. It is a great movie for families."
+  },
+  {
+    "name": "Sophia Martinez",
+    "date": "2026-03-04",
+    "content": "The story was simple but enjoyable, and the animation was beautiful."
+  },
+  {
+    "name": "Henry Anderson",
+    "date": "2026-03-12",
+    "content": "A fun movie with a good balance of comedy, adventure, and emotional moments."
+  },
+  {
+    "name": "Mia Taylor",
+    "date": "2026-03-20",
+    "content": "I really liked the characters. The movie was entertaining and had a positive message."
+  },
+  {
+    "name": "Lucas Thomas",
+    "date": "2026-03-28",
+    "content": "Great animated movie for both kids and adults. I would definitely watch it again."
+  }
+]
+  },
+  {
+    "id": 29,
+    "title": "Encanto",
+    "description": "A magical family blessed with extraordinary gifts faces unexpected challenges as one determined girl discovers that love, hope, and unity are their greatest strengths of all.",
+    "year": "2021",
+    "type": "Family",
+    "poster": "encanto_poster.webp",
+    "logo": "encanto_logo.png",
+    "background": "encanto_back.jpg",
+    "evaluation":"6.7",
+    "trailer":"CaimKeDcudo",
+    "reviews": [
+  {
+    "name": "Emma Johnson",
+    "date": "2026-01-15",
+    "content": "Amazing movie! The story was fun, and the characters were really enjoyable."
+  },
+  {
+    "name": "Liam Smith",
+    "date": "2026-01-22",
+    "content": "My kids loved it. It was funny, entertaining, and easy to follow."
+  },
+  {
+    "name": "Olivia Brown",
+    "date": "2026-02-03",
+    "content": "A really enjoyable animated movie with a great message about friendship."
+  },
+  {
+    "name": "Noah Williams",
+    "date": "2026-02-10",
+    "content": "The animation looks fantastic, and the story kept me interested from beginning to end."
+  },
+  {
+    "name": "Ava Davis",
+    "date": "2026-02-18",
+    "content": "Very funny and entertaining. Some scenes were especially memorable."
+  },
+  {
+    "name": "James Wilson",
+    "date": "2026-02-25",
+    "content": "I enjoyed the characters and the humor. It is a great movie for families."
+  },
+  {
+    "name": "Sophia Martinez",
+    "date": "2026-03-04",
+    "content": "The story was simple but enjoyable, and the animation was beautiful."
+  },
+  {
+    "name": "Henry Anderson",
+    "date": "2026-03-12",
+    "content": "A fun movie with a good balance of comedy, adventure, and emotional moments."
+  },
+  {
+    "name": "Mia Taylor",
+    "date": "2026-03-20",
+    "content": "I really liked the characters. The movie was entertaining and had a positive message."
+  },
+  {
+    "name": "Lucas Thomas",
+    "date": "2026-03-28",
+    "content": "Great animated movie for both kids and adults. I would definitely watch it again."
+  }
+]
+  },
+  {
+    "id": 30,
+    "title": "The Princess and the Frog",
+    "description": "A hardworking young woman finds herself on a magical adventure where dreams, friendship, and true love lead to unforgettable discoveries across a colorful and enchanting world.",
+    "year": "2009",
+    "type": "Family",
+    "poster": "frog_poster.webp",
+    "logo": "frog_logo.png",
+    "background": "frog_back.jpg",
+    "evaluation":"7.8",
+    "trailer":"gOHmFuxEd38",
+    "reviews": [
+  {
+    "name": "Matthew Young",
+    "date": "2026-06-13",
+    "content": "One of the most enjoyable animated movies I have watched recently."
+  },
+  {
+    "name": "Isabella King",
+    "date": "2026-06-20",
+    "content": "The humor was great, and I especially enjoyed the interactions between the characters."
+  },
+  {
+    "name": "Samuel Wright",
+    "date": "2026-06-27",
+    "content": "A colorful and entertaining adventure with a story that never feels boring."
+  },
+  {
+    "name": "Emily Scott",
+    "date": "2026-07-04",
+    "content": "The animation style is beautiful, and the movie has a lot of memorable scenes."
+  },
+  {
+    "name": "David Green",
+    "date": "2026-07-11",
+    "content": "I enjoyed the action and comedy. It is a great choice for a movie night."
+  },
+  {
+    "name": "Hannah Baker",
+    "date": "2026-07-18",
+    "content": "The story has some unexpected moments that made the movie more interesting."
+  },
+  {
+    "name": "Michael Adams",
+    "date": "2026-07-25",
+    "content": "The pacing was good, and I never felt like the movie was too slow."
+  },
+  {
+    "name": "Amelia Nelson",
+    "date": "2026-08-01",
+    "content": "I really enjoyed the funny scenes and the unique personalities of the characters."
+  },
+  {
+    "name": "Christopher Carter",
+    "date": "2026-08-08",
+    "content": "A fun family movie with an interesting story and beautiful animation."
+  },
+  {
+    "name": "Charlotte Mitchell",
+    "date": "2026-08-15",
+    "content": "The ending was great, and the whole movie was enjoyable and easy to watch."
+  }
+]
+  },
+  {
+    "id": 31,
+    "title": "Frozen",
+    "description": "Two royal sisters embark on a breathtaking journey where love, courage, and hope help them overcome powerful magic while discovering the unbreakable bond that connects them forever.",
+    "year": "2013",
+    "type": "Family",
+    "poster": "frozen1_poster.webp",
+    "logo": "frozen1_logo.png",
+    "background": "frozen1_back.jpg",
+    "evaluation":"8.7",
+    "trailer":"TbQm5doF_Uc",
+    "reviews": [
+  {
+    "name": "Emma Johnson",
+    "date": "2026-01-15",
+    "content": "Amazing movie! The story was fun, and the characters were really enjoyable."
+  },
+  {
+    "name": "Liam Smith",
+    "date": "2026-01-22",
+    "content": "My kids loved it. It was funny, entertaining, and easy to follow."
+  },
+  {
+    "name": "Olivia Brown",
+    "date": "2026-02-03",
+    "content": "A really enjoyable animated movie with a great message about friendship."
+  },
+  {
+    "name": "Noah Williams",
+    "date": "2026-02-10",
+    "content": "The animation looks fantastic, and the story kept me interested from beginning to end."
+  },
+  {
+    "name": "Ava Davis",
+    "date": "2026-02-18",
+    "content": "Very funny and entertaining. Some scenes were especially memorable."
+  },
+  {
+    "name": "James Wilson",
+    "date": "2026-02-25",
+    "content": "I enjoyed the characters and the humor. It is a great movie for families."
+  },
+  {
+    "name": "Sophia Martinez",
+    "date": "2026-03-04",
+    "content": "The story was simple but enjoyable, and the animation was beautiful."
+  },
+  {
+    "name": "Henry Anderson",
+    "date": "2026-03-12",
+    "content": "A fun movie with a good balance of comedy, adventure, and emotional moments."
+  },
+  {
+    "name": "Mia Taylor",
+    "date": "2026-03-20",
+    "content": "I really liked the characters. The movie was entertaining and had a positive message."
+  },
+  {
+    "name": "Lucas Thomas",
+    "date": "2026-03-28",
+    "content": "Great animated movie for both kids and adults. I would definitely watch it again."
+  }
+]
+  },
+  {
+    "id": 27,
+    "title": "The Good Dinosaur",
+    "description": "A young dinosaur forms an unlikely friendship with a brave human boy, discovering courage, loyalty, and the strength to overcome fear through an unforgettable adventure together.",
+    "year": "2015",
+    "type": "Family",
+    "poster": "dinosaur_poster.webp",
+    "logo": "dinosaur_logo.png",
+    "background": "dinosaur_back.jpg",
+    "evaluation":"6.7",
+    "trailer":"O-RgquKVTPE",
+    "reviews": [
+  {
+    "name": "Emma Johnson",
+    "date": "2026-01-15",
+    "content": "Amazing movie! The story was fun, and the characters were really enjoyable."
+  },
+  {
+    "name": "Liam Smith",
+    "date": "2026-01-22",
+    "content": "My kids loved it. It was funny, entertaining, and easy to follow."
+  },
+  {
+    "name": "Olivia Brown",
+    "date": "2026-02-03",
+    "content": "A really enjoyable animated movie with a great message about friendship."
+  },
+  {
+    "name": "Noah Williams",
+    "date": "2026-02-10",
+    "content": "The animation looks fantastic, and the story kept me interested from beginning to end."
+  },
+  {
+    "name": "Ava Davis",
+    "date": "2026-02-18",
+    "content": "Very funny and entertaining. Some scenes were especially memorable."
+  },
+  {
+    "name": "James Wilson",
+    "date": "2026-02-25",
+    "content": "I enjoyed the characters and the humor. It is a great movie for families."
+  },
+  {
+    "name": "Sophia Martinez",
+    "date": "2026-03-04",
+    "content": "The story was simple but enjoyable, and the animation was beautiful."
+  },
+  {
+    "name": "Henry Anderson",
+    "date": "2026-03-12",
+    "content": "A fun movie with a good balance of comedy, adventure, and emotional moments."
+  },
+  {
+    "name": "Mia Taylor",
+    "date": "2026-03-20",
+    "content": "I really liked the characters. The movie was entertaining and had a positive message."
+  },
+  {
+    "name": "Lucas Thomas",
+    "date": "2026-03-28",
+    "content": "Great animated movie for both kids and adults. I would definitely watch it again."
+  }
+]
+  }
+    ]
+}
